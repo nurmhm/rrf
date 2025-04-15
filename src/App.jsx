@@ -1,3 +1,4 @@
+import ConnnectNow from "./componnets/ConnnectNow"
 import Feature from "./componnets/Feature"
 import HeroSection from "./componnets/HeroSection"
 import Navbar from "./componnets/Navbar"
@@ -15,6 +16,7 @@ function App() {
     <Feature/>
     <OurProgram/>
     <Team/>
+    <ConnnectNow/>
     </div>
   )
 }
